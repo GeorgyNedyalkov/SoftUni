@@ -1,6 +1,8 @@
 SoftUni
 =======
 
+SoftUni IRC Channel: #softuni@freenode.org
+
 Software University Bulgaria - Courses & Homeworks
 
 Here will be listed ALL the Courses that I am assigned to & ALL the Homeworks made by me, ordered by category:
