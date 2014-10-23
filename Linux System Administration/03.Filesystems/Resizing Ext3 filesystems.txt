@@ -1,0 +1,2 @@
+Resizing Ext3 filesystems:
+http://www.howtoforge.com/linux_resizing_ext3_partitions

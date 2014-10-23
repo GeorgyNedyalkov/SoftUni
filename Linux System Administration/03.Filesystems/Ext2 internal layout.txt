@@ -1,0 +1,2 @@
+Ext2 internal layout:
+http://www.nongnu.org/ext2-doc/ext2.html

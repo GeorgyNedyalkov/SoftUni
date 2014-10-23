@@ -119,4 +119,4 @@ A13:
 
 Q14: What is the device file name for SD card?
 
-A14:
+A14: mmcblk0p1
