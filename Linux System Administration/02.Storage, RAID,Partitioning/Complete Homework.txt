@@ -1,0 +1,99 @@
+Q1: Describe how to measure access time on one disc?
+
+A1: Access time is used to describe the speed of disk drives (in our case - HDD). It is measured in ms (milliseconds). The access time is the time that “head” (that read/write) is needed for to find a sector on the disk. This time is average, because the path that the “head” travels depend on the distance between the “head” and the seek data (seek data is the data that “head” is searching for).
+
+////////////////////////////////////////////
+
+Q2: What is the probability of consistently breaking another drive in a RAID array?
+
+A2: Depends on the RAID Level:
+
+RAID 0 - 1-(1-r)^{n}
+
+RADI 1 - r^{n}
+
+RAID 2 - Varies
+
+RAID 3 - 1-(1-r)^{n}-nr(1-r)^{n-1}
+
+RAID 4 - 1-(1-r)^{n}-nr(1-r)^{n-1}
+
+RAID 5 - 1-(1-r)^{n}-nr(1-r)^{n-1}
+
+RAID 6 - 1-(1-r)^{n}-nr(1-r)^{n-1}-{n\2}r^{2}(1-r)^{n-2}
+
+Legend:
+n - number of drives
+r - drive failure rate
+
+////////////////////////////////////////////
+
+Q3: Find hardware devices for use RAM as HDD.
+
+A3:
+
+////////////////////////////////////////////
+
+Q4: Find device that can support over 6 drives and binds directly to the machine controller.
+
+A4:
+
+////////////////////////////////////////////
+
+Q5: Write the command/s to create software RAID5 from 5 SATA disks.
+
+A5:
+
+////////////////////////////////////////////
+
+Q6: Write the command/s to create software RAID6 from 5 SATA disks.
+
+A6:
+
+////////////////////////////////////////////
+
+Q7: Write the command/s to create software RAID10 from 4 SATA disks.
+
+A7:
+
+////////////////////////////////////////////
+
+Q8: Write the command/s to create software RAID01 from 4 SATA disks.
+
+A8:
+
+////////////////////////////////////////////
+
+Q9: Write the command/s to create software RAID60 from 10 SATA disks.
+
+A9:
+
+////////////////////////////////////////////
+
+Q10: Find the command/s which can control 3were hardware RAID controllers.
+
+A10:
+
+////////////////////////////////////////////
+
+Q11: Find the command/s which can control LSI hardware RAID controllers.
+
+A11:
+
+////////////////////////////////////////////
+
+Q12: Find the command/s which can control Adaptec hardware RAID controllers.
+
+A12:
+
+////////////////////////////////////////////
+
+Q13: Find the command/s which can control DELL(PERC) hardware RAID controllers.
+
+A13:
+
+////////////////////////////////////////////
+
+Q14: What is the device file name for SD card?
+
+A14:
