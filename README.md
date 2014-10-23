@@ -1,4 +1,4 @@
-Software University Bulgaria aka SoftUni - www.softuni.bg
+SoftUni - www.softuni.bg
 =======
 
 SoftUni IRC Channel: #softuni at freenode.net IRC Network
