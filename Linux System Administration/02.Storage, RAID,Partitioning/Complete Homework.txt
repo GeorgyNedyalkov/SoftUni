@@ -36,37 +36,60 @@ A3:
 
 Q4: Find device that can support over 6 drives and binds directly to the machine controller.
 
-A4:
+A4: SCSI:
+Parallel SCSI - 8/16 devices
+SAS - 16,256 devices
 
 ////////////////////////////////////////////
 
 Q5: Write the command/s to create software RAID5 from 5 SATA disks.
 
-A5:
+A5: mdadm --create /dev/md0 --level=5 --raid-devices=5 /dev/sd[bcdef]1
 
 ////////////////////////////////////////////
 
 Q6: Write the command/s to create software RAID6 from 5 SATA disks.
 
-A6:
+A6: mdadm --create /dev/md0 --level=6 --raid-devices=5 /dev/sd[bcdef]1
 
 ////////////////////////////////////////////
 
 Q7: Write the command/s to create software RAID10 from 4 SATA disks.
 
-A7:
+A7: First create 2 RAID1:
+
+mdadm --create /dev/md0 --level=1 --raid-devices=2 /dev/sd[bc]1
+mdadm --create /dev/md1 --level=1 --raid-devices=2 /dev/sd[de]1
+
+And then create RAID0 from the 2 RAID1:
+
+mdadm --create /dev/md2 --level=0 --raid-devices=2 /dev/md0 /dev/md1
 
 ////////////////////////////////////////////
 
 Q8: Write the command/s to create software RAID01 from 4 SATA disks.
 
-A8:
+A8: First create 2 RAID0:
+
+mdadm --create /dev/md0 --level=0 --raid-devices=2 /dev/sd[bc]1
+mdadm --create /dev/md1 --level=0 --raid-devices=2 /dev/sd[de]1
+
+And then create RAID1 from the 2 RAID0:
+
+mdadm --create /dev/md2 --level=1 --raid-devices=2 /dev/md0 /dev/md1
 
 ////////////////////////////////////////////
 
 Q9: Write the command/s to create software RAID60 from 10 SATA disks.
 
-A9:
+A9: First we need to create 2 RAID6 from 10 disks:
+
+mdadm --create /dev/md0 --level=6 --raid-devices=5 /dev/sd[bcdef]1
+mdadm --create /dev/md1 --level=6 --raid-devices=5 /dev/sd[ghijk]1
+
+And then create RAID0 from 2 RAID6:
+
+mdadm --create /dev/md2 --level=0 --raid-devices=2 /dev/md0 /dev/md1
 
 ////////////////////////////////////////////
 
