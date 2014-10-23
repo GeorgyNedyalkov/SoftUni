@@ -12,5 +12,5 @@ Here will be listed ALL the Courses that I am assigned to & ALL the Homeworks ma
 C# Basic October 2014
 =======
 
-Linux System Administration a.k.a LSA October 2014
+Linux System Administration October 2014 a.k.a LSA
 =======
