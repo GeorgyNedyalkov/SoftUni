@@ -1,1 +1,1 @@
-There is no homework assigned to this lecture
+There is no homework assigned to this lecture.

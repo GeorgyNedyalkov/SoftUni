@@ -1,1 +1,1 @@
-Check Homework.txt for more details about the homework assignment
+Check Homework.txt for more details about the homework assignment.
