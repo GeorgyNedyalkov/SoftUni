@@ -1,7 +1,7 @@
 SoftUni
 =======
 
-SoftUni IRC Channel: #softuni@freenode.org
+SoftUni IRC Channel: #softuni at freenode.net IRC Network
 
 Software University Bulgaria - Courses & Homeworks
 
