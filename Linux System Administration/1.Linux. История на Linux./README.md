@@ -1,4 +1,5 @@
 YouTube Video for this lecture
+---
 Screen capture:
 ---
 http://youtu.be/g6RnUZyXz_o
