@@ -4,7 +4,7 @@ Screen capture:
 ---
 http://youtu.be/V_BygqL2aqU
 ---
-Camera
+Camera:
 ---
 http://youtu.be/Ic9R2DIIi08
 ---
