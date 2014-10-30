@@ -1,0 +1,9 @@
+#Command for mounting one path into another path:
+mount --bind olddir newdir
+
+Example:
+#Make new directory:
+mkdir ~/new_log
+
+#Mount existing /var/log to our new directory ~/new_log:
+mount --bind /var/log ~/new_log
