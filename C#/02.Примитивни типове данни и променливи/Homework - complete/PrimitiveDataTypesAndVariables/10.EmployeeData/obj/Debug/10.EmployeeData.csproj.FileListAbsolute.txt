@@ -1,0 +1,4 @@
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

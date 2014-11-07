@@ -1,0 +1,4 @@
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\1337\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

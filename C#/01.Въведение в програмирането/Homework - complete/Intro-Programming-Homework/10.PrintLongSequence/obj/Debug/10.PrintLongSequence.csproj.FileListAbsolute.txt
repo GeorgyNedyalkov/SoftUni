@@ -1,0 +1,5 @@
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.pdb
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.exe
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.pdb
+C:\Users\1337\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.csprojResolveAssemblyReference.cache

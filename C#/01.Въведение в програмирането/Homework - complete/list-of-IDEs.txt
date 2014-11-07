@@ -1,0 +1,35 @@
+1. Visual Studio (Microsoft Visual Studio) - Visual Studio is Windows only IDE. It is used to
+develop computer programs for Microsoft Windows, web sites, web applications and web services.
+Visual Studio include code editor (with support of IntelliSense as well as code refactoring),
+debugger (source-level debugger and machine-level debugger), forms designer
+(for building GUI applications, web designer, class designer, and database schema designer)
+and more. Visual Studio supports programming languages C#, C, C++, F#, VisualBasic, JavaScript,
+Python and other.
+
+2. Eclipse - Eclipse is cross-platform IDE developed by Eclipse Foundation. It is writen in
+Java program language. Its support a lot of different programming languages like:
+Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog,
+Python, R, Ruby and more. Development environments include the Eclipse Java development tools
+(JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+3. NetBeans - NetBeans is cross-platform IDE developed by Oracle Corporation. Its supports
+development of all Java application types. All the functions of the IDE are provided by modules.
+Each module provides a well defined function, such as support for the Java language, editing,
+or support for the CVS versioning system, and SVN. New features, such as support for other
+programming languages, can be added by installing additional modules.
+
+4. Xcode - Xcode is Apple's IDE for developing software for OS X and iOS. It is free and supports
+C, C++, Objective-C, Objective-C++, Java, AppleScript, Python, Ruby, Rez, and Swift and others
+programming languages.
+
+5. MonoDevelop - MonoDevelop is an open-source IDE for Linux, OS X and Windows, writen in C#, XML
+and others languages, and it is developed by Xamarin and the Mono community. Its primary
+focus is development of projects that use Mono and .NET frameworks. MonoDevelop supports many
+languages like: C, C++, C#, F#, Java, Python, Vala, and Visual Basic.NET and other. Its has
+similar features to thos of Visual Studio and NetBeans, such as automatic code completion,
+source control, graphic user interface and web designer.
+
+6. Code::Blocks - Code::Blocks is free and open-source, cross-platform (developed for Windows,
+Linux, and Mac OS X and has been ported to FreeBSD, OpenBSD and Solaris) IDE developed by
+The Code::Blocks team. Its writen in C++. Code::Blocks supports multiple compilers including
+GCC, Clang and Visual C++.

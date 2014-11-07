@@ -1,0 +1,4 @@
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.pdb
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.exe
+c:\users\1337\documents\visual studio 2013\Projects\Intro-Programming-Homework\08.CurrentDateAndTime\obj\Debug\08.CurrentDateAndTime.pdb

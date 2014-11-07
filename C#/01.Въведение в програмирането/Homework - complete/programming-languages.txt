@@ -1,0 +1,40 @@
+1. C:
+C is a general-purpose programming language. C is developed by Dennis Ritchie between 1969
+and 1973 at AT&T Bell Labs. C is one of the most widely used programming languages
+of all time, and C compilers are available for the majority of available computer architectures
+and operating systems. C is the father of all C based languages (C++, C#, etc).
+The main differences between the two is that C# is object-oriented language while
+C is structed language. C# is used to develop Windows applications, web sites, services, etc,
+while C is consider to be a low-level language and it is used to develop OS's, firmware, etc.
+
+2. PHP:
+PHP is script language. That means it compile every time (on the fly) when you run the
+program that is writen on it. It is consider to be a web application language. Used to write
+web sites applications. The sintax is similar to C#, because both PHP and C# are based on C.
+They have object-oriented programming functionality (in PHP this is added in version 3 and above,
+while C# is object-oriented from its start).
+
+3. Java:
+Java is a computer programming language that is concurrent, class-based, object-oriented,
+and specifically designed to have as few implementation dependencies as possible.
+Java applications runs on virtual machine - Java Virtual Machine (JVM) which can run on
+wide variety of platforms.
+Java and C# are similar programming languages that are statically, strongly, and manifestly
+typed, both are class-based object-oriented, both are designed with semi-interpretation or
+runtime compilation in mind, both use garbage-collection, and both are "curly brace languages"
+like C and C++.
+
+4. JavaScript:
+JavaScript is a dynamic computer programming language. It is used as part of web browsers, that
+means JavaScript cannot be used without web browser.
+JavaScript is similar to C# where came to sintax, and it is also support object-oriented model like
+C#. While JavaScript is used for web application a.k.a websites, it 'lives' inside a browser.
+The browser understand it, and make it to work, while C# is compiled language, which means
+when you compile it once, it can be run on every supported platform. And it is used to
+program any kind of applications.
+
+5. Visual Basic .NET:
+C# and VB.NET are syntactically very different languages. C# syntax is based on the core
+C programming language while Visual Basic .NET is based on the BASIC language.
+They compile to the same intermediate language, which runs against the same .NET Framework
+runtime libraries.
